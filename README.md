@@ -22,7 +22,7 @@ The table below describes the differences in data based on city type.
 ![Graph](/Resources/Table.PNG)
 
 Total Rides:  The Rural rides were much lower than the Urban rides.  Therefore, there were many more people riding in the Urban centers.
-And the Suburban rides were about about 5 times higher than the rural rides, but still about 2.5 times lower than the Urban centers.
+And the Suburban rides were about 5 times higher than the rural rides, but still about 2.5 times lower than the Urban centers.
 This is what we would expect given the higher population in the Urban centers.  We could validate the ratio of rides if we had more specific population
 date for each city and city type.  
 
@@ -35,7 +35,7 @@ undersupply of drivers in the Rural cities.
 
 Total Fares:
 The total fares is higher for the Urban city types and lower for the Rural City types.
-And the Suburban total fares is inbetween the Rural and Urban Total fares. 
+And the Suburban total fares is in between the Rural and Urban Total fares. 
 This is aligned with the number of total rides for each city type.
 
 ![Graph](/analysis/PyBer_fare_summary.png)
