@@ -37,7 +37,8 @@ Total Fares:
 The total fares is higher for the Urban city types and lower for the Rural City types.
 And the Suburban total fares is inbetween the Rural and Urban Total fares. 
 This is aligned with the number of total rides for each city type.
-![Graph](/analysis/PyBer_fare_summary.PNG)
+
+![Graph](/analysis/PyBer_fare_summary.png)
 
 
 Average Fare Per Ride:
